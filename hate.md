@@ -25,3 +25,7 @@ After finding no results on the IP when searching in double quotes - they then p
 They wrongly credited Loi for a Network Chuck clip in their video.
 
 They assumed a russian with a mac PC based on the IP and header
+
+
+Paying for linkedin premium or using other honeypots in association with the email such as using google dorks to find good places to put it - can expose the ;hacker' when he is just doing normal recon before going insane and throwing all the protection on. Most hackers only throw the extra layer on when they start attacking the server.
+Yes I know that's bad practice but at least it's an extra step in trying to find the person attacking you. 
